@@ -11,7 +11,7 @@ public class PlaceholderFrame extends JFrame
       setResizable(false);
       setVisible(true);
       setTitle("StreetZ");
-      VersusMode game = new VersusMode();
+      VersusComponent game = new VersusComponent();
       game.setSize(1280, 720);
       game.setOpaque(true);
       setContentPane(game);

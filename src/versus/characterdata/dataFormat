@@ -1,0 +1,7 @@
+each line contains data for a hurtbox.
+RelativeX, RelativeY, Width, Height
+''           ''       ''        ''
+.
+.
+.
+etc
